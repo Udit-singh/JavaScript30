@@ -45,5 +45,8 @@ html {
     top: 50%;
     transform-origin: 100%;
     transform: rotate(90deg);
+      /* Transition of clock*/
+    transition: cubic-bezier(0.1, 2.7, 0.58, 1);
+
     
      }
