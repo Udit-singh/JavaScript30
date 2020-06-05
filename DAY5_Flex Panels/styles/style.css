@@ -41,7 +41,12 @@ html {
     flex-direction: column;
   }
 
-  
+  .panel1 { background-image:url(../Img/1.jpg); }
+  .panel2 { background-image:url(../Img/2.jpg); }
+  .panel3 { background-image:url(../Img/3.jpg); }
+  .panel4 { background-image:url(../Img/4.jpg); }
+  .panel5 { background-image:url(../Img/5.jpg); }
+
   /* Flex Items */
   .panel > * {
     margin: 0;
